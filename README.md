@@ -30,17 +30,13 @@ Core profiles, calendar calculations and readings work offline. Birth informatio
 
 ## 📱 App Preview
 
-| Illustrated introduction | Personal BaZi profile | Compatibility |
+| Home | Shop | Personal BaZi profile  |
 |:--:|:--:|:--:|
-| <img src="iphone17-es-introduccion.png" width="245" alt="Illustrated AstroZen introduction on parchment"> | <img src="profile-premium-es-iphone17.png" width="245" alt="Premium profile with animal, element and BaZi reading"> | <img src="iphone17-comparacion-es.png" width="245" alt="Two-person chart comparison with symbolic affinity indicator"> |
+| <img src="home-en-large-iphone17.png" width="245" alt="Saved people on a transparent parchment list"> | <img src="iphone17-es-tienda.png" width="245" alt="Shop recipient selector and unpublished catalog state"> | <img src="iphone17-es-perfil.png" width="245" alt="Premium benefits, StoreKit price, purchase and restore actions"> |
 
-| Porfile Editor | Personas Profiles | PayWall |
+| Illustrated introduction | Personas Profiles | Compatibility |
 |:--:|:--:|:--:|
-| <img src="iphone17-en-editor.png" width="245" alt="Illustrated AstroZen introduction on parchment"> | <img src="iphone17-es-personas.png" width="245" alt="Premium profile with animal, element and BaZi reading"> | <img src="iphone17-es-compra-introduccion.png" width="245" alt="Two-person chart comparison with symbolic affinity indicator"> |
-
-| Home | Comparizon | Premium purchase |
-|:--:|:--:|:--:|
-| <img src="home-en-large-iphone17.png" width="245" alt="Saved people on a transparent parchment list"> | <img src="Diphone17-comparacion-es.png" width="245" alt="Shop recipient selector and unpublished catalog state"> | <img src="iphone17-es-perfil.png" width="245" alt="Premium benefits, StoreKit price, purchase and restore actions"> |
+| <img src="iphone17-es-introduccion.png" width="245" alt="Illustrated AstroZen introduction on parchment"> | <img src="iphone17-es-personas.png" width="245" alt="Premium profile with animal, element and BaZi reading"> | <img src="iphone17-comparacion-es.png" width="245" alt="Two-person chart comparison with symbolic affinity indicator"> |
 
 *Actual simulator captures from documented validation runs. The shop shows its empty catalog state; the purchase screen uses StoreKit Testing.*
 
