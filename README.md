@@ -32,11 +32,15 @@ Core profiles, calendar calculations and readings work offline. Birth informatio
 
 | Illustrated introduction | Personal BaZi profile | Compatibility |
 |:--:|:--:|:--:|
-| <img src="Documentation/MVCRefactor/Screenshots/iphone17-es-introduccion.png" width="245" alt="Illustrated AstroZen introduction on parchment"> | <img src="Documentation/VisualBazi/Screenshots/iphone17-perfil-es.png" width="245" alt="Premium profile with animal, element and BaZi reading"> | <img src="Documentation/VisualBazi/Screenshots/iphone17-comparacion-es.png" width="245" alt="Two-person chart comparison with symbolic affinity indicator"> |
+| <img src="iphone17-es-introduccion.png" width="245" alt="Illustrated AstroZen introduction on parchment"> | <img src="profile-premium-es-iphone17.png" width="245" alt="Premium profile with animal, element and BaZi reading"> | <img src="iphone17-comparacion-es.png" width="245" alt="Two-person chart comparison with symbolic affinity indicator"> |
 
-| Saved people | Personalized shop | Premium purchase |
+| Porfile Editor | Personas Profiles | PayWall |
 |:--:|:--:|:--:|
-| <img src="Documentation/LegacyDesign/Screenshots/iphone17-es-personas.png" width="245" alt="Saved people on a transparent parchment list"> | <img src="Documentation/LegacyDesign/Screenshots/iphone17-es-tienda.png" width="245" alt="Shop recipient selector and unpublished catalog state"> | <img src="Documentation/LegacyDesign/Screenshots/iphone17-es-compra-introduccion.png" width="245" alt="Premium benefits, StoreKit price, purchase and restore actions"> |
+| <img src="iphone17-en-editor.png" width="245" alt="Illustrated AstroZen introduction on parchment"> | <img src="iphone17-es-personas.png" width="245" alt="Premium profile with animal, element and BaZi reading"> | <img src="iphone17-es-compra-introduccion.png" width="245" alt="Two-person chart comparison with symbolic affinity indicator"> |
+
+| Home | Comparizon | Premium purchase |
+|:--:|:--:|:--:|
+| <img src="home-en-large-iphone17.png" width="245" alt="Saved people on a transparent parchment list"> | <img src="Diphone17-comparacion-es.png" width="245" alt="Shop recipient selector and unpublished catalog state"> | <img src="iphone17-es-perfil.png" width="245" alt="Premium benefits, StoreKit price, purchase and restore actions"> |
 
 *Actual simulator captures from documented validation runs. The shop shows its empty catalog state; the purchase screen uses StoreKit Testing.*
 
